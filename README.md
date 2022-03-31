@@ -1,2 +1,2 @@
 # Android_gate_opener
-High School project, which allows to open an gate from android phone
+Feel free to use the anything presented in this reposotiry for personal use.
